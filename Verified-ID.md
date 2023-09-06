@@ -11,6 +11,8 @@ Normally, we need some IdPs (Google/Facebook/Microsoft) to hold/own the digital 
 * IdP is centralized
 * We could lose the identity and it is not portable
 
+IdP is central approach, do we really trust it?
+
 ## Reference
 
 [![Watch the video](https://img.youtube.com/vi/BxLSSH_EHjo/hqdefault.jpg)](https://www.youtube.com/embed/BxLSSH_EHjo)
