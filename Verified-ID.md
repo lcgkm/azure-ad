@@ -1,9 +1,10 @@
 # Verified ID
 
 ## Real Word Verifiable Credentials
-Driving License
-Passport
+* Driving License
+* Passport
 
 ## Reference
 
-https://www.youtube.com/watch?v=BxLSSH_EHjo&t=1459s
+[![Watch the video](https://img.youtube.com/vi/BxLSSH_EHjo/hqdefault.jpg)](https://www.youtube.com/embed/BxLSSH_EHjo)
+
