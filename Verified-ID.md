@@ -12,6 +12,7 @@ Normally, we need some IdPs (Google/Facebook/Microsoft) to hold/own the digital 
 * We could lose the identity and it is not portable
 
 IdP is central approach, do we really trust it?
+The regular PKI is central approach, everybody need trust certificate authorities.
 
 ### Me as my my own identity provider
 * Decentralized
