@@ -25,7 +25,17 @@ The regular PKI is central approach, everybody need trust certificate authoritie
 We still have **issuer**, **holder/user** and **verifier/app**
 
 ### DID
-Decentralized Identifier?
+[Decentralized Identifier?](https://www.w3.org/TR/did-core/)
+Requirements:
+* Permanent
+* Resolvable -> Metadata
+* Cryptograph verifiable
+* Decentralized
+
+#### Solution 
+```
+Use Math and crypotgraph to generate the decentralized identifier from the public key
+```
 
 ## Reference
 
