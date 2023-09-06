@@ -24,6 +24,9 @@ The regular PKI is central approach, everybody need trust certificate authoritie
 ### Trusts
 We still have **issuer**, **holder/user** and **verifier/app**
 
+### DID
+Decentralized Identifier?
+
 ## Reference
 
 [![Watch the video](https://img.youtube.com/vi/BxLSSH_EHjo/hqdefault.jpg)](https://www.youtube.com/embed/BxLSSH_EHjo)
