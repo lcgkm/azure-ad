@@ -40,4 +40,6 @@ Use Math and crypotgraph to generate the decentralized identifier from the publi
 ## Reference
 
 [![Watch the video](https://img.youtube.com/vi/BxLSSH_EHjo/hqdefault.jpg)](https://www.youtube.com/embed/BxLSSH_EHjo)
+[Decentralized JWT/Web Stack](https://linktr.ee/decentralizedidentity)
+[Decentralized Identifiers (DIDs) v1.0](https://www.w3.org/TR/did-core/)
 
